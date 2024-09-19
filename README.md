@@ -18,6 +18,8 @@ Informations Générales 💡​
 
 </h4>
 
+----------------------------------
+
 <h4 align="center"> 
 
 Statistiques 📈​
