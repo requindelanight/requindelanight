@@ -44,10 +44,10 @@ Technologies ⚗️
 
 ----------------------------------
 
-<h4 align="center"> 
+<h3 align="center"> 
 
 Statistiques 📈​
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=requindelanight&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
-</h4>
+</h3>
