@@ -4,7 +4,7 @@
   
 </h4> 
 
-### Informations Générales 💡​
+Informations Générales 💡​
 
 <h4 align="center"> 
 
@@ -16,7 +16,11 @@
 
 ----------------------------------
 
-### Langages 💻️
+</h3> 
+
+Langages 💻️
+
+<h3 align="center"> 
 
 ![alt text](https://camo.githubusercontent.com/23f85aeadace75c1cd68e5702e6bda387827bc401af0d4f8b8aad7170ef650c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d507974686f6e2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d707974686f6e26636f6c6f723d333737364142)
 
