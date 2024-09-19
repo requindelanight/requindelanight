@@ -22,7 +22,7 @@ Informations Générales 💡​
 
 <h3 align="center"> 
 
-Languages 💻️
+Langages 💻️
 
 </h3>
 
