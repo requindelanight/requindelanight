@@ -4,11 +4,11 @@
   
 </h4> 
 
-<h2 align="center"> 
+<h3 align="center"> 
 
 Informations Générales 💡​
 
-</h2>
+</h3>
 
 <h4 align="center"> 
 
@@ -17,8 +17,6 @@ Informations Générales 💡​
 💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
 
 </h4>
-
-<h2 align="center"> </h2>
 
 <h4 align="center"> 
 
