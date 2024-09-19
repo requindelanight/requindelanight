@@ -8,7 +8,7 @@
 
 Bonjour \! Je suis étudiant en informatique.
 
-💬 Si vous souhaitez parler avec moi c'est sur le <a href="https://github.com/requindelanight/requindelanight/issues">là</a>
+💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/issues">là</a> !
 
 </p>
 
