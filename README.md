@@ -6,7 +6,7 @@
 
 <center>
 
-👋 Bonjour \! Je suis étudiant en informatique.
+👋 Bonjour \! Je suis étudiant en informatique. Je compte ajouter mes petits projets de l'année !
 
 💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
 
