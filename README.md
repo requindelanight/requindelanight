@@ -4,8 +4,6 @@
   
 </h1> 
 
---
-
 <h4 align="center"> 
 
 👋 Bonjour \! Je suis étudiant en informatique. Je compte ajouter mes petits projets de l'année !
@@ -14,9 +12,11 @@
 
 </h4>
 
---
+
 
 <h1 align="center"> 
+
+Statistiques 📈​
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=requindelanight&theme=tokyonight&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
