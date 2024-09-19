@@ -4,13 +4,13 @@
   
 </h1> 
 
-<p align="center">
+<center>
 
 Bonjour \! Je suis étudiant en informatique.
 
 💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
 
-</p>
+</center>
 
 <h1 align="center"> 
   
