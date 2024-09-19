@@ -4,6 +4,12 @@
   
 </h1> 
 
+<h2 align="center"> 
+
+Informations Générales 💡​
+
+</h2>
+
 <h4 align="center"> 
 
 👋 Bonjour \! Je suis étudiant en informatique. Je compte ajouter mes petits projets de l'année !
@@ -11,6 +17,14 @@
 💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
 
 </h4>
+
+------
+
+<h2 align="center"> 
+
+
+
+</h2>
 
 ------
 
