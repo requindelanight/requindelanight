@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=requindelanight&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
+<div align="center" background-image=url('https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg')>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=false&width=450&height=80&lines=Hello+World+!)](https://git.io/typing-svg)
 
