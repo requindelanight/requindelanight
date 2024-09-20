@@ -1,5 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=requindelanight&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<center>
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&height=80&lines=Hello+World+!)](https://git.io/typing-svg)
 
 ### Informations Générales 💡​
@@ -27,4 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=requindelanight&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=requindelanight&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=requindelanight&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</center>
 
