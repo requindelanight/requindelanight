@@ -10,7 +10,7 @@
 
 <div align="center">
 
-👋 Good morning \! I am a computer science student. I plan to add my little projects for the year!
+👋 Good morning \! I am a computer science student. I plan to add my little projects for the year !
 
 💬 To discuss or ask me questions, click <a href="https://github.com/requindelanight/requindelanight/discussions/">here</a> !
 
