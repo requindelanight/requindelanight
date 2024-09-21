@@ -14,7 +14,7 @@
 
 <div align="center">
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="75" /> <p> Je travaille principalement sur le système d'exploitation Linux </p>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="75" /> Je travaille principalement sur le système d'exploitation Linux </p>
 
 </div>
 
