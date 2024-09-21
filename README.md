@@ -16,7 +16,7 @@
 
 </div>
 
-<h2> 💻️ Language </h2>
+<h2> 💻️ Languages </h2>
 
 <div align="center">
   
