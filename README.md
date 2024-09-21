@@ -12,8 +12,7 @@
 
 👋 Bonjour \! Je suis étudiant en informatique. Je compte ajouter mes petits projets de l'année !
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="100" />
 
 💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
 
