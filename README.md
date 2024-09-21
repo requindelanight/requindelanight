@@ -6,23 +6,17 @@
 
 </div>
 
-<h2> 💡​ Informations Générales​ </h2>
+<h2> 💡​ General Information </h2>
 
 <div align="center">
 
-👋 Bonjour \! Je suis étudiant en informatique. Je compte ajouter mes petits projets de l'année !
+👋 Good morning \! I am a computer science student. I plan to add my little projects for the year!
 
-<div align="center">
-  
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="25" height="75" /> Je travaille principalement sur le système d'exploitation Linux </p>
+💬 To discuss or ask me questions, click <a href="https://github.com/requindelanight/requindelanight/discussions/">here</a> !
 
 </div>
 
-💬 Pour discuter c'est par <a href="https://github.com/requindelanight/requindelanight/discussions/">là</a> !
-
-</div>
-
-<h2> 💻️ Langages​ </h2>
+<h2> 💻️ Language </h2>
 
 <div align="center">
   
@@ -30,7 +24,7 @@
 
 </div>
   
-<h2> 🔧 Outils​ </h2>
+<h2> 🔧 Tools & others </h2>
 
 <div align="center">
   
