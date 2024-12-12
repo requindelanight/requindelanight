@@ -16,7 +16,7 @@
 
 </div>
 
-<h2> 💻️ Languages </h2>
+<h2> 💻️ Preferred languages </h2>
 
 <div align="center">
   
